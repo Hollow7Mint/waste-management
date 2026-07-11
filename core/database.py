@@ -216,4 +216,4 @@ class WasteDatabase:
             if len(page) < batch_size:
                 break
             offset += batch_size
-# Last sync: 2026-07-11 13:17:33 UTC
+# Last sync: 2026-07-11 14:50:05 UTC
